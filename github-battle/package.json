@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "say 'starting server' && webpack-dev-server --open"
+    "start": "webpack-dev-server --open"
   },
   "babel": {
     "presets": [
@@ -16,6 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.16.2",
+    "query-string": "^5.0.0",
     "react": "^15.6.0",
     "react-dom": "^15.6.0",
     "react-router-dom": "^4.2.2"
