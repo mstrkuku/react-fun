@@ -3,9 +3,7 @@ var PropTypes =require('prop-types');
 
 class Loading extends React.Component {
     render() {
-        return (
-
-        )
+        // return ()
     }
 }
 
