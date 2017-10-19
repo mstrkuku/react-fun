@@ -20,7 +20,7 @@ var config = {
     },
 
     devServer: {
-        historyApiFallback: true
+        historyApiFallback: true,
     },
 
     plugins: [
